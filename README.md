@@ -1,4 +1,4 @@
-# what is the difference between Business Intelligence and Business Analysis and Data Analysis?
+# What is the difference between Business Intelligence and Business Analysis and Data Analysis?
 
 
 # Business Intelligence
