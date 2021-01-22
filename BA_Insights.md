@@ -8,3 +8,11 @@ Create the sql queries to extract the desired Insights.
 Using Power BI or Python I generate the stats that I need to take decisions upon. 
 
 # Insights dashboards 
+
+![Ba insights_sql](https://user-images.githubusercontent.com/47668423/105491902-60ef5400-5cb7-11eb-87c3-ef53da8d3239.png)
+
+![ba_corr](https://user-images.githubusercontent.com/47668423/105491904-62208100-5cb7-11eb-94db-43d2cbb27645.png)
+
+# Conclusions
+
+
