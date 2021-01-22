@@ -15,6 +15,8 @@ Using Power BI or Python I generate the stats that I need to take decisions upon
 
 # Power BI dashboard
 
+<img width="653" alt="BA_max" src="https://user-images.githubusercontent.com/47668423/105511432-2a720300-5cd0-11eb-85dc-8aed54e8943b.png">
+
 
 # Conclusions
 
