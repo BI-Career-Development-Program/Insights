@@ -13,6 +13,9 @@ Using Power BI or Python I generate the stats that I need to take decisions upon
 
 ![ba_corr](https://user-images.githubusercontent.com/47668423/105491904-62208100-5cb7-11eb-94db-43d2cbb27645.png)
 
+# Power BI dashboard
+
+
 # Conclusions
 
 Where salary is lower, rate is higher and where salary is higher rating is lower. 
