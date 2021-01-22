@@ -15,4 +15,7 @@ Using Power BI or Python I generate the stats that I need to take decisions upon
 
 # Conclusions
 
+Where salary is lower, rate is higher and where salary is higher rating is lower. 
+The lowert ba salary is in Education and highest in Retail
+
 
