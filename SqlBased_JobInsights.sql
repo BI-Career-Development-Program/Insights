@@ -15,3 +15,16 @@ GROUP BY Sector;
 
 -- The relationship between comapny rating and salary estimate will be illustrated on Python.
 
+-- More insights for BA jobs
+
+-- How many sectors can we find for BA jobs?
+select Sector,Salary_Estimate_k, count(Sector) from ba
+where Job_title='Business Analyst'
+GROUP BY Salary_Estimate_k
+Order by Salary_Estimate_k ASC;
+
+--How many jobs per sector can we find?
+Select Sector, count(Job_title)from ba
+GROUP BY Salary_Estimate_k
+Order by Salary_Estimate_k ASC;
+
