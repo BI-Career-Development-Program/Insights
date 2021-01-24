@@ -28,3 +28,10 @@ Select Sector, count(Job_title)from ba
 GROUP BY Salary_Estimate_k
 Order by Salary_Estimate_k ASC;
 
+--How many jobs with salary between 78, 89?  
+select Job_title, Salary_Estimate_K, count(Job_title) from ba
+where Salary_Estimate_k between 76 and 89
+Group by Job_title
+Order by Salary_Estimate_k asc;
+
+
